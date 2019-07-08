@@ -7,6 +7,8 @@ A space-themed educational game that deals with computer networks. This applicat
 
 <img src="https://user-images.githubusercontent.com/29106169/60809348-21275100-a193-11e9-8342-eab1013bc4c2.jpg">
 
+<img src="https://user-images.githubusercontent.com/29106169/60809368-2e444000-a193-11e9-8c1d-2dbcc35e769e.jpg">
+
 
 
 
