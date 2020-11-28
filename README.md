@@ -5,6 +5,7 @@ Bilgisayar ağlarını konu alan, uzay temalı eğitsel oyun.
 # Hedef Kitle
 11-14 Yaş
 
+# Oyun İçi Görseller
 <table border="0">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/29106169/60809256-eb826800-a192-11e9-9a23-12289fcce99b.jpg"></td>
